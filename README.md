@@ -3,6 +3,12 @@ Store Locator
 
 Store Locator helps the users to display the markers of the stores(for a particular company or business) on the google map when the user specifies the latitude and longitude of the store location.
 
+**Check out [demo](https://codepen.io/ravi1947/pen/OOoKja)**
+
+Try changing the data-postions in 
+
+      <div data-position="">
+
 ## Todo
 -Add option for displaying the map or not. The user should able to display the map in mobile as well if needs.
 ## Issues
